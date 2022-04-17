@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/araba.xml" value="0.2555" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ay.xml" value="0.21" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/bulut.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/capa.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/cocuk.xml" value="0.2555" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/dolar.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/gamepad.xml" value="0.2555" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/gemi.xml" value="0.2555" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/gunes.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/kalem.xml" value="0.2555" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/kalp.xml" value="0.2555" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/kamera.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/kar.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/kek.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/semsiye.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/testere.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ucak.xml" value="0.1735" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/yaprak.xml" value="0.2555" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_easy.xml" value="0.2" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_kolay.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_seviye_ekrani.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/ofar3/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_zor.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
