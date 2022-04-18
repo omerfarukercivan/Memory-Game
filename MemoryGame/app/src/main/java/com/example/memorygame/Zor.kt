@@ -141,7 +141,7 @@ class Zor : AppCompatActivity() {
                     .show()
                 val context = this
                 var db = dataBaseHelper(context)
-                var kayit = Kayit("Zor   ", meter.text.toString(), skor.text.toString(), hamleSayisi.text.toString())
+                var kayit = Kayit("Zor   ", meter.text.toString(), (((skor.text.toString()).toInt())+10).toString(), hamleSayisi.text.toString())
                 db.insertData(kayit)
             }
         }else{
