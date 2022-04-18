@@ -8,4 +8,4 @@ Barış Çınar (1190505031)
 Ömer Faruk Ercivan (1190505033)
 <br/>
 # Uygulama
-![kolay](https://user-images.githubusercontent.com/102831736/163720833-2b27cf8b-dbb7-4eb2-bb36-6141d489fb60.gif)
+<img src="https://user-images.githubusercontent.com/102831736/163720833-2b27cf8b-dbb7-4eb2-bb36-6141d489fb60.gif" width="50%" height="50%" />
